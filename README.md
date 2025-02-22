@@ -8,4 +8,6 @@
 - 사용 툴
     1. 픽픽
     2. 파이썬
-   
+- 에러
+  1. 모듈 인식 안됨 : https://coreeny.tistory.com/67
+     1. 파이썬 실행파일(python.exe) 경로 찾기 : https://coreeny.tistory.com/67
